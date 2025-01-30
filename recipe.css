@@ -1,0 +1,60 @@
+.bottom{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.container{
+    display: flex;
+    gap: 20px;
+       
+}
+
+.bottom{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.table__two{
+    margin-left: auto;
+    margin-right: auto;
+}
+.button__title{
+    background-color: yellow;
+    color: black;
+    display: inline block;
+    width: 600px;
+    
+}
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+      
+}
+.food__one__button,.food__two__button,.food__three__button,.food__four__button{
+    background-color: black;
+    color: white;
+}
+.card {
+    background-color: white;
+    border: 4px solid #ddd;
+    border-radius: 8px;
+    border-color: black;
+    width: 250px;
+    text-align: center;
+    padding: 30px;
+    transition: transform 0.3s;
+    
+   
+    
+    
+    
+}
+.card img{
+    width: 100%;
+    height: 50%;
+    border-radius: 8px
+}
+
+
